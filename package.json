@@ -28,7 +28,7 @@
     "mongodb": "^3.0.0-rc0",
     "mongoose": "^4.13.6",
     "node-schedule": "^1.2.5",
-    "nsp": "^2.6.3"
+    "nsp": "^3.2.1"
   },
   "devDependencies": {
     "@types/node": "^7.0.12",
